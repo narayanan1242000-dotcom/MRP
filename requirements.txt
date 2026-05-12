@@ -1,0 +1,7 @@
+Django==4.2.0
+DjangoRestFramework==3.14.0
+psycopg2-binary==2.9.6
+django-cors-headers==4.0.0
+python-decouple==3.8
+celery==5.3.0
+django-filter==23.1
